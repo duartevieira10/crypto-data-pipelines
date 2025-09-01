@@ -1,1 +1,1 @@
-# kraken-data-pipeline
+# crypto-data-pipelines
